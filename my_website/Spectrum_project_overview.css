@@ -1,0 +1,49 @@
+h1{
+font-family: 'Nosifer', cursive;
+color: red;
+font-size-adjust: auto;
+text-align:center;
+}
+
+ #one{
+   border: 100px solid #250902;
+   background-color: #250902;
+   width: 10px;
+   height: 50%;
+   margin-left: 100px;
+ }
+#two{
+border: 100px solid  #38040E ;
+background-color:#38040E ;
+width:50px ;
+height:50%;
+margin-left: 350px;
+  margin-top: -215px;
+}
+
+#three{
+  border: 100px solid #640D14 ;
+  background-color: #640D14 ;
+  width:50px ;
+  height: 50%;
+  margin-left: 650px;
+  margin-top:-215px ;
+}
+
+#four{
+  border: 100px solid #CA3C25 ;
+  background-color:#CA3C25 ;
+  width: 50px;
+  height: 50%;
+  margin-left: 950px;
+  margin-top:-215px;
+}
+
+#five{
+  border:100px solid #800E13 ;
+  background-color:#800E13 ;
+  width:50px ;
+  height: 50%;
+  margin-left: 1250px;
+  margin-top: -215px ;
+}
